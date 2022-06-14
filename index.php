@@ -23,7 +23,7 @@
 
     <!-- NAVBAR -->
 
-    <nav class="navbar navbar-expand-lg bg-light">
+    <nav class="navbar navbar-expand-lg bg-dark">
   <div class="container">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -74,7 +74,7 @@
       <img src="images/image1.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="images/image2.jpg" class="d-block w-100" alt="...">
+      <img src="images/fundo.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
       <img src="images/image3.jpg" class="d-block w-100" alt="...">
