@@ -19,7 +19,9 @@
         <div class="container-fluid">
         <div class="row">
             <nav id="sidebarMenu" class="col-md-3 col-lg-2 text-white bg-dark pt-3">
-            <h2>Bom dia <? php echo '$_SESSION['nome']; ?> </h2>
+            <h2>Bom dia,Jamile! <?php echo $_SESSION['nome'] ?>
+                
+            </h2>
                 <p><a href="?sair">Deslogar</a></p>
                 <ul class="nav flex-column">
                     <li class="nav-item">
