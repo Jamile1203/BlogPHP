@@ -1,15 +1,17 @@
 body{
-    background-color: white;
+    background-color: black;
 }
 footer{
     background-color: #a9a9a9;
 }
+
 .container{
+
     margin: 0 auto 0 auto;
     display: flex;
     justify-content: space-evenly;
     margin-top: 25px;
     padding: 5px 10px 0px 10px;
+    
 }
-
 
